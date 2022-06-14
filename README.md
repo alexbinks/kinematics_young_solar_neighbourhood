@@ -1,0 +1,2 @@
+This repository contains the files and jupyter notebook to measure Galactic space velocities from Gaia DR3 for stars within 100pc and with isochronal ages likely younger than 40 Myr.
+# This repository contains the files and code required to download Gaia DR3 data, measure UVW Galactic space velocities, identify young stars on a Gaia G versus BP-RP CMD and compare with known nearby young moving groups.
